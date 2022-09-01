@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lios.markdownplus.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lios.markdownplus.MyBundle
 
 class MyApplicationService {
 
